@@ -180,4 +180,18 @@ export const allMovies = [
   //     type: [],
   //     description: "",
   //   },
+  {
+    title: "How I Met Your Mother",
+    id: "how-i-met-your-mother",
+    contentHeading: "trending",
+    releaseYear: 2005,
+    rating: 8.3,
+    imageLink:
+      "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_1_5x/sources/r1/cms/prod/7527/177527-h",
+    playLink: "https://youtu.be/aJtVL2_fA5w",
+    duration: "",
+    type: ["Comedy", "Romance"],
+    description:
+      "A father recounts to his children - through a series of flashbacks - the journey he and his four best friends took leading up to him meeting their mother.",
+  },
 ];
